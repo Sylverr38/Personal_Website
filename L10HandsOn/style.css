@@ -1,0 +1,71 @@
+@media (max-width: 576px){
+    body{
+        
+    }
+}
+
+footer{
+    height: 70px;
+    width: 100%;
+    background-color: darkgoldenrod;
+    display: flex;
+    border-top: 5px solid white;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
+
+#zach{
+    width: 200px;
+    height: auto;
+    border: 2px solid lightgray;
+    border-radius:15px;
+}
+
+#email {
+    width: 30px;
+    height: auto;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+
+.pics{
+    width: 75px;
+    
+}
+
+.size{
+    width: 100px;
+}
+
+#top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 50px;
+    text-decoration: underline;
+}
+
+#tech{
+    text-decoration: underline;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+#hub{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid lightgray;
+    border-radius:15px;
+}
+
+#techskills{
+    border: 2px solid lightgray;
+    border-radius: 15px;
+}
+
